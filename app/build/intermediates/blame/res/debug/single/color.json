@@ -1,46 +1,82 @@
 [
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_secondary_text_material_light.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_material_dark.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/switch_thumb_material_light.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/switch_thumb_material_dark.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_material_light.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_search_url_text.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color\\switch_thumb_material_light.xml"
     }
 ]

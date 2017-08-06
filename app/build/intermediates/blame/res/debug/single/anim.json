@@ -1,58 +1,114 @@
 [
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_snackbar_in.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_fab_in.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\8495d38962e7128e5603c7b1b5e6ba673a86fec0\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_snackbar_out.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_fab_out.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\8495d38962e7128e5603c7b1b5e6ba673a86fec0\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\8495d38962e7128e5603c7b1b5e6ba673a86fec0\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\8495d38962e7128e5603c7b1b5e6ba673a86fec0\\output\\res\\anim\\design_snackbar_in.xml"
     }
 ]

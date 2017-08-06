@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "D:\\android_app\\GITHUB\\CHESTCR\\ClashRoyaleGuide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\yahya\\.android\\build-cache\\e888c8a6997a54d5b1c0672ed4d7a58772a15386\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\home\\rishabh\\Desktop\\Google\\GameGuideforClashRoyale\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
     }
 ]
